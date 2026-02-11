@@ -39,15 +39,6 @@
 - 实时匹配结果
 - 分类筛选查找
 
-## 📱 应用截图
-
-<div align="center">
-  <img src="screenshots/home.png" width="200" alt="主页"/>  
-  <img src="screenshots/add_item.png" width="200" alt="添加物品"/>
-  <img src="screenshots/categories.png" width="200" alt="分类管理"/>
-  <img src="screenshots/search.png" width="200" alt="搜索功能"/>
-</div>
-
 ## 🚀 快速开始
 
 ### 📥 下载安装
@@ -160,7 +151,7 @@ build/app/outputs/flutter-apk/app-release.apk
 ## 📞 联系方式
 
 - **作者**：Gan0819Han
-- **邮箱**：[您的邮箱]
+- **邮箱**：2019394441@qq.com
 - **GitHub**：[@Gan0819Han](https://github.com/Gan0819Han)
 
 ---
